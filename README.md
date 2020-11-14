@@ -41,6 +41,6 @@ curl --location --request GET 'localhost:5000/api/user/logout' \
 --header 'Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYWUzOTExNTE4NDZkMzY1NGY5MmVkZCIsImVtYWlsIjoic3VwdW5yYWphaXNuZ2hlQGdtYWlsLmNvbSIsImlhdCI6MTYwNTI1NDYwNX0.ygiC49izrIxPIJwmkKRVqdHd0wR6_bswSegh7zqqBAI'
 
 
-To second task Front + Backend i used this backend and make separate routes for products.
+To second task Front + Backend i used this backend and make separate routes for products. three categories adding by script when server starts
 
 For frontend I have Used react-bootstrap.
