@@ -1,6 +1,9 @@
 Before start project run "npm install" in main directory and inside client folder.
+
 Before run backend please check mongodb port is match to you port. (inside env file)
+
 Then, using "npm start" start the backend and using "npm start" inside client folder start the front end.
+
 To run tests "npm test"
 
 "register, login, logout, getProfile" for these endpoints following curls are the example.
